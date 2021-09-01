@@ -25,7 +25,7 @@ body {
   font-family: "Lato", sans-serif;
   background: linear-gradient(to right, rgb(22, 34, 42), rgb(58, 96, 115));
   color: #fff;
-  /*overflow: scroll;*/
+  /* overflow: scroll; */
 }
 
 #app {
